@@ -1,0 +1,16 @@
+h1 {
+    background: green;
+    font-weight: 100;
+    border: red solid 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    border-radius: dot 30px;
+}
+
+p {
+    font-weight: 600;
+    font-size: large;
+    border: red solid 20;
+}
